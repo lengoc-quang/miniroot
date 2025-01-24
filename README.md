@@ -1,5 +1,5 @@
 <div align="center">
-# MiniRoot Installer
+<h1> MiniRoot Installer </h1>
 </div>
 
 ## Overview
