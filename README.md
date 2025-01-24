@@ -4,7 +4,7 @@
 
 ## Overview
 
-This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot.
+This shell script is designed to automate the installation of MiniRoot, a lightweight Ubuntu environment using Proot.
 
 ## Prerequisites
 
