@@ -1,4 +1,6 @@
-# Foxytoux Installer
+<div align="center">
+# MiniRoot Installer
+</div>
 
 ## Overview
 
@@ -16,8 +18,8 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/foxytouxxx/freeroot.git
-    cd freeroot
+    git clone https://github.com/lengoc-quang/miniroot.git
+    cd miniroot
     ```
 
 2. Run the installer script:
@@ -37,13 +39,12 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
 ## License
 
-This Foxytoux Installer script is released under the [MIT License](LICENSE).
+This MiniRoot Installer script is released under the [MIT License](LICENSE).
 
 ## Credits
 
-Foxytoux Installer is developed and maintained by RecodeStudios.Cloud.
-This installer has been made possible thanks to [dxomg](https://github.com/dxomg) for his proot code
+Special thanks to RecodeStudio.Cloud and [foxytoux](https://github.com/foxytouxxx) for Foxytoux environment.
 
 ---
 
-**Note:** This script is intended for educational and experimental purposes. Use it responsibly and at your own risk.
+**Note:** Use it responsibly and at your own risk.
